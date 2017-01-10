@@ -1,0 +1,7 @@
+body {background-color: #faebd7;}
+.css-classes {background-color: red;}
+.css-classes p {
+	font-size: 1.0em;
+	color: green;
+}
+.css-classes li {color: navy;}
