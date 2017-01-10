@@ -1,0 +1,5 @@
+body {font-size: 16px;}
+p.first-class {color: green;}
+p.second-class{font-size: 1.0em;}
+p#number-one {color: red;}
+p#number-two {font-size: 1.5em;}
